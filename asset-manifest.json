@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/flappy-bird/static/css/main.0ffd82a3.chunk.css",
+    "main.js": "/flappy-bird/static/js/main.b3af5ee6.chunk.js",
+    "main.js.map": "/flappy-bird/static/js/main.b3af5ee6.chunk.js.map",
+    "runtime-main.js": "/flappy-bird/static/js/runtime-main.8ef5382f.js",
+    "runtime-main.js.map": "/flappy-bird/static/js/runtime-main.8ef5382f.js.map",
+    "static/js/2.5b95171d.chunk.js": "/flappy-bird/static/js/2.5b95171d.chunk.js",
+    "static/js/2.5b95171d.chunk.js.map": "/flappy-bird/static/js/2.5b95171d.chunk.js.map",
+    "index.html": "/flappy-bird/index.html",
+    "static/css/main.0ffd82a3.chunk.css.map": "/flappy-bird/static/css/main.0ffd82a3.chunk.css.map",
+    "static/js/2.5b95171d.chunk.js.LICENSE.txt": "/flappy-bird/static/js/2.5b95171d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/flappy-bird/static/media/bg.093d36bb.png",
+    "static/media/App-bird.scss": "/flappy-bird/static/media/bird.71e31e9e.png",
+    "static/media/App-game-field.scss": "/flappy-bird/static/media/fg.1aff9f5e.png",
+    "static/media/App-pipes.scss": "/flappy-bird/static/media/pipe-top.3e4cf42d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef5382f.js",
+    "static/js/2.5b95171d.chunk.js",
+    "static/css/main.0ffd82a3.chunk.css",
+    "static/js/main.b3af5ee6.chunk.js"
+  ]
+}
